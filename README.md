@@ -34,7 +34,7 @@ Innovating **memory and computation architectures** for efficient, resource-opti
 | [**Cordic**](https://github.com/BMMADHUMITHA/Cordic) | Hardware implementation of the CORDIC algorithm for trigonometric computations. | Cadence Xcelium, ncverilog, Stratus |
 | [**control_system**](https://github.com/BMMADHUMITHA/control_system) | Explores the design of an automated steering controller aimed at improving vehicle safety and reducing driver workload. The project is divided into three phases: a simplified initial control model, integration of feedback mechanisms with accelerometer data to analyze stability and performance, and final consideration of wind gust disturbances alongside accelerometer feedback to enhance system robustness. | MATLAB |
 | [**DFT_for_Asynchronous_FIFO**](https://github.com/BMMADHUMITHA/DFT_for_Asynchronous_FIFO) | Scan insertion and DFT techniques applied to asynchronous FIFO designs. | Cadence Genus, Modus |
-| [**weighted_rr**](https://github.com/BMMADHUMITHA/weighted_rr) | Weighted Round-Robin Arbiter implementation for bus access management. | Cadence tools |
+| [**weighted_rr**](https://github.com/BMMADHUMITHA/weighted_rr) | Weighted Round-Robin Arbiter implementation for bus access management. | Cadence Xcelium, ncverilog, Genus |
 | [**fibonacci**](https://github.com/BMMADHUMITHA/fibonacci) | Hardware-efficient Fibonacci number generator using SystemVerilog. | UVM, Cadence IMC |
 | [**RISC_V_Single_cycle_processor**](https://github.com/BMMADHUMITHA/RISC_V_Single_cycle_processor) | RTL design of a single-cycle RISC-V processor core. | Cadence Genus, Jaspergold, Conformal Equivalence Checker  |
 
