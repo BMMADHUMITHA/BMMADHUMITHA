@@ -4,28 +4,28 @@
 
 I’m **B M Madhumitha**, a driven VLSI enthusiast with a B.Tech in Electronics and Communication Engineering (VLSI specialization) and a Minor in Computer Science from PES University, Bengaluru. My work and research focus on pushing the boundaries of digital design, hardware acceleration, and semiconductor verification.
 
-### 🎓 Academic & Research Experience
+### Academic & Research Experience
 - Research Intern at **SINESys Lab, Indian Institute of Science (IISc)**, low-power hardware accelerators for solving PDEs leveraging **Sky130A**, **OpenLane**, and **Accelergy**.
 - Hands-on expertise in full **RTL-to-GDSII flow**, **UVM-based functional and formal verification**, **RTL Simulation**, and **FPGA prototyping**.
 - Selected as part of the prestigious **NXP Women in Tech program (Top 50 nationwide)**, trained in advanced semiconductor design methodologies.
 
-### 🛠️ Core Competencies & Interests
+### Interests
 - **ASIC & SoC Design:** RTL coding, timing optimization, layout-aware design.
 - **Functional Verification:** Developing reusable UVM testbenches, DFT, and robust validation techniques.
 - **Computer Architecture:** Modeling and simulation of RISC-V and x86 pipelines.
 - **Analog & Mixed Signal Design:** Designing SAR ADCs, PRBS Generators, and dynamic analog circuits in Cadence Virtuoso.
 - **Open Source EDA Tools:** Skilled with OpenLane, Yosys, KLayout, Magic, and others for physical design automation.
 
-### 🔬 Research Interests
+### Research Interests
 Innovating **memory and computation architectures** for efficient, resource-optimized integration. Advancing **secure, real-time systems** to enable reliable hardware solutions in dynamic environments.
 
-<h3 align="left">🧑‍💻 Most Used Languages:</h3>
+<h3 align="left"> Most Used Languages:</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmadhumitha&layout=compact&theme=dark&hide_title=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
-### 🔬 Research & Projects
+### Research & Projects
 
 | Repository Name | Description | Technologies |
 |-----------------|-------------|--------------|
@@ -41,7 +41,7 @@ Innovating **memory and computation architectures** for efficient, resource-opti
 
 ---
 
-📫 **Contact Me:**  
+ **Contact Me:**  
 - **Email:** [madhumithabm2003@gmail.com](mailto:madhumithabm2003@gmail.com)  
 - **GitHub:** [B M Madhumitha](https://github.com/BMMADHUMITHA)  
 - **LinkedIn:** [B M Madhumitha](https://www.linkedin.com/in/b-m-madhumitha-3b66a8280/)  
