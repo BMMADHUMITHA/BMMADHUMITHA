@@ -1,5 +1,6 @@
 <h1 align="left">B M Madhumitha</h1>
-# About Me
+
+### About Me
 
 I’m **B M Madhumitha**, a driven VLSI enthusiast with a B.Tech in Electronics and Communication Engineering (VLSI specialization) and a Minor in Computer Science from PES University, Bengaluru. My work and research focus on pushing the boundaries of digital design, hardware acceleration, and semiconductor verification.
 
