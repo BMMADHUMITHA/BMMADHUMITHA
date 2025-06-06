@@ -1,50 +1,46 @@
-<h1 align="center">Hi 👋, I'm B M Madhumitha</h1>
-<h3 align="center">VLSI Enthusiast | Hardware Design Engineer | Digital Verification</h3>
+<h1 align="left">B M Madhumitha</h1>
+# About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bmmadhumitha&label=Profile%20views&color=0e75b6&style=flat" alt="bmmadhumitha" /> </p>
+I’m **B M Madhumitha**, a driven VLSI enthusiast with a B.Tech in Electronics and Communication Engineering (VLSI specialization) and a Minor in Computer Science from PES University, Bengaluru. My work and research focus on pushing the boundaries of digital design, hardware acceleration, and semiconductor verification.
 
-- 🔭 I’m currently working on **Hardware Accelerators for PDEs @ IISc**
+### 🎓 Academic & Research Experience
+- Research Intern at **SINESys Lab, Indian Institute of Science (IISc)**, low-power hardware accelerators for solving PDEs leveraging **Sky130A**, **OpenLane**, and **Accelergy**.
+- Hands-on expertise in full **RTL-to-GDSII flow**, **UVM-based functional and formal verification**, **RTL Simulation**, and **FPGA prototyping**.
+- Selected as part of the prestigious **NXP Women in Tech program (Top 50 nationwide)**, trained in advanced semiconductor design methodologies.
 
-- 🌱 I’m currently learning **OpenLane, Accelergy, Physical Design Flows**
+### 🛠️ Core Competencies & Interests
+- **ASIC & SoC Design:** RTL coding, timing optimization, layout-aware design.
+- **Functional Verification:** Developing reusable UVM testbenches, DFT, and robust validation techniques.
+- **Computer Architecture:** Modeling and simulation of RISC-V and x86 pipelines.
+- **Analog & Mixed Signal Design:** Designing SAR ADCs, PRBS Generators, and dynamic analog circuits in Cadence Virtuoso.
+- **Open Source EDA Tools:** Skilled with OpenLane, Yosys, KLayout, Magic, and others for physical design automation.
 
-- 👯 I’m looking to collaborate on **ASIC/FPGA Verification & Architecture Projects**
+### 🔬 Research Interests
+Innovating **memory and computation architectures** for efficient, resource-optimized integration. Advancing **secure, real-time systems** to enable reliable hardware solutions in dynamic environments.
 
-- 🤝 I’m looking for help with **Power-aware RTL Design**
+<h3 align="left">🧑‍💻 Most Used Languages:</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/BMMADHUMITHA](https://github.com/BMMADHUMITHA)
-
-- 📝 I regularly write technical documentation for my academic projects
-
-- 💬 Ask me about **SystemVerilog, UVM, RTL Design, RISC-V, SAR ADCs**
-
-- 📫 How to reach me **madhumithabm2003@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1xl3v_H1xI0U2qZ8hSCdTH8y8YeIcg347?usp=sharing)
-
-- ⚡ Fun fact **I love debugging post-layout timing failures late at night 😄**
-
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/b-m-madhumitha-3b66a8280" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:madhumithabm2003@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmadhumitha&layout=compact&theme=dark&hide_title=true&langs_count=8" alt="Most Used Languages" />
 </p>
+
+### 🔬 Research & Projects
+
+| Repository Name | Description | Technologies |
+|-----------------|-------------|--------------|
+| [**3_bit_SAR_ADC**](https://github.com/BMMADHUMITHA/3_bit_SAR_ADC) | Design and simulation of a 3-bit Successive Approximation Register ADC. | LTspice, VLSI |
+| [**PRBS**](https://github.com/BMMADHUMITHA/PRBS) | Pseudo-Random Bit Sequence generator for BIST and data integrity checks. | VLSI Circuits |
+| [**Cordic**](https://github.com/BMMADHUMITHA/Cordic) | Hardware implementation of the CORDIC algorithm for trigonometric and hyperbolic computations. | Verilog |
+| [**control_system**](https://github.com/BMMADHUMITHA/control_system) | MATLAB-based control system analysis and simulation modules. | MATLAB |
+| [**DFT_for_Asynchronous_FIFO**](https://github.com/BMMADHUMITHA/DFT_for_Asynchronous_FIFO) | Scan insertion and DFT techniques applied to asynchronous FIFO designs. | Verilog |
+| [**weighted_rr**](https://github.com/BMMADHUMITHA/weighted_rr) | Weighted Round-Robin Arbiter implementation for bus access management. | Verilog |
+| [**fibonacci**](https://github.com/BMMADHUMITHA/fibonacci) | Hardware-efficient Fibonacci number generator using SystemVerilog. | SystemVerilog |
+| [**RISC_V_Single_cycle_processor**](https://github.com/BMMADHUMITHA/RISC_V_Single_cycle_processor) | RTL design of a single-cycle RISC-V processor core. | Verilog |
+
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.verilog.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.xilinx.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Xilinx_logo.svg" alt="xilinx" width="80" height="40"/> </a>
-<a href="https://www.cadence.com/" target="_blank"> <img src="https://seeklogo.com/images/C/cadence-logo-B0C504C7C2-seeklogo.com.png" alt="cadence" width="80" height="40"/> </a>
-</p>
-
----
-
-<h3 align="left">📈 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmmadhumitha&show_icons=true&locale=en&layout=compact" alt="bmmadhumitha" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bmmadhumitha&show_icons=true&locale=en" alt="bmmadhumitha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bmmadhumitha&" alt="bmmadhumitha" /></p>
+📫 **Contact Me:**  
+- **Email:** [madhumithabm2003@gmail.com](mailto:madhumithabm2003@gmail.com)  
+- **GitHub:** [B M Madhumitha](https://github.com/BMMADHUMITHA)  
+- **LinkedIn:** [B M Madhumitha](https://www.linkedin.com/in/b-m-madhumitha-3b66a8280/)  
