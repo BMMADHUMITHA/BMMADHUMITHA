@@ -6,7 +6,7 @@ I’m **B M Madhumitha**, a driven VLSI enthusiast with a B.Tech in Electronics 
 
 ### Academic & Research Experience
 - Research Intern at **SINESys Lab, Indian Institute of Science (IISc)**, low-power hardware accelerators for solving PDEs leveraging **Sky130A**, **OpenLane**, and **Accelergy**.
-- Hands-on expertise in full **RTL-to-GDSII flow**, **UVM-based functional and formal verification**, **RTL Simulation**, and **FPGA prototyping**.
+- Hands-on expertise in full **RTL-to-GDSII flow (Yosys, Openlane, Icarus Verilog, OpenRoad)**, **UVM-based functional and formal verification**, **RTL Simulation**, and **FPGA prototyping**.
 - Selected as part of the prestigious **NXP Women in Tech program (Top 50 nationwide)**, trained in advanced semiconductor design methodologies.
 
 ### Interests
@@ -27,16 +27,16 @@ Innovating **memory and computation architectures** for efficient, resource-opti
 
 ### Research & Projects
 
-| Repository Name | Description | Technologies |
+| Repository Name | Description | Tools |
 |-----------------|-------------|--------------|
-| [**3_bit_SAR_ADC**](https://github.com/BMMADHUMITHA/3_bit_SAR_ADC) | Design and simulation of a 3-bit Successive Approximation Register ADC. | LTspice, VLSI |
-| [**PRBS**](https://github.com/BMMADHUMITHA/PRBS) | Pseudo-Random Bit Sequence generator for BIST and data integrity checks. | VLSI Circuits |
-| [**Cordic**](https://github.com/BMMADHUMITHA/Cordic) | Hardware implementation of the CORDIC algorithm for trigonometric and hyperbolic computations. | Verilog |
-| [**control_system**](https://github.com/BMMADHUMITHA/control_system) | MATLAB-based control system analysis and simulation modules. | MATLAB |
-| [**DFT_for_Asynchronous_FIFO**](https://github.com/BMMADHUMITHA/DFT_for_Asynchronous_FIFO) | Scan insertion and DFT techniques applied to asynchronous FIFO designs. | Verilog |
-| [**weighted_rr**](https://github.com/BMMADHUMITHA/weighted_rr) | Weighted Round-Robin Arbiter implementation for bus access management. | Verilog |
-| [**fibonacci**](https://github.com/BMMADHUMITHA/fibonacci) | Hardware-efficient Fibonacci number generator using SystemVerilog. | SystemVerilog |
-| [**RISC_V_Single_cycle_processor**](https://github.com/BMMADHUMITHA/RISC_V_Single_cycle_processor) | RTL design of a single-cycle RISC-V processor core. | Verilog |
+| [**3_bit_SAR_ADC**](https://github.com/BMMADHUMITHA/3_bit_SAR_ADC) | Design and simulation of a 3-bit Successive Approximation Register ADC. | Cadence Virtuoso |
+| [**PRBS**](https://github.com/BMMADHUMITHA/PRBS) | Pseudo-Random Bit Sequence generator, used in BIST and data integrity checks. | LTSpice, Verilog Simulation |
+| [**Cordic**](https://github.com/BMMADHUMITHA/Cordic) | Hardware implementation of the CORDIC algorithm for trigonometric computations. | Cadence Xcelium, ncverilog, Stratus |
+| [**control_system**](https://github.com/BMMADHUMITHA/control_system) | Explores the design of an automated steering controller aimed at improving vehicle safety and reducing driver workload. The project is divided into three phases: a simplified initial control model, integration of feedback mechanisms with accelerometer data to analyze stability and performance, and final consideration of wind gust disturbances alongside accelerometer feedback to enhance system robustness. | MATLAB |
+| [**DFT_for_Asynchronous_FIFO**](https://github.com/BMMADHUMITHA/DFT_for_Asynchronous_FIFO) | Scan insertion and DFT techniques applied to asynchronous FIFO designs. | Cadence Genus, Modus |
+| [**weighted_rr**](https://github.com/BMMADHUMITHA/weighted_rr) | Weighted Round-Robin Arbiter implementation for bus access management. | Cadence tools |
+| [**fibonacci**](https://github.com/BMMADHUMITHA/fibonacci) | Hardware-efficient Fibonacci number generator using SystemVerilog. | UVM, Cadence IMC |
+| [**RISC_V_Single_cycle_processor**](https://github.com/BMMADHUMITHA/RISC_V_Single_cycle_processor) | RTL design of a single-cycle RISC-V processor core. | Cadence Genus, Jaspergold, Conformal Equivalence Checker  |
 
 
 ---
